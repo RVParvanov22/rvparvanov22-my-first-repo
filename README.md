@@ -16,3 +16,4 @@ This is more text
 ```bash
 echo "Hello World!"
 ```
+Teodora Skulieva
