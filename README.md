@@ -10,3 +10,9 @@ This is some more text
 
 ```python
 print("Hello world!")
+```
+This is more text
+
+```bash
+echo "Hello World!"
+```
